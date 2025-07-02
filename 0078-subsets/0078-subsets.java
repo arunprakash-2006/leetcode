@@ -9,7 +9,7 @@ class Solution {
 
         public void back(int start,int[] nums,List<Integer> a1,List<List<Integer>> ans)
         {
-            if(start>=nums.length)
+            if(start==nums.length)
             {
                 ans.add(new ArrayList<> (a1));
                 return;
