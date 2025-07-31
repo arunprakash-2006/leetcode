@@ -10,7 +10,7 @@ class Solution {
     }
     public void back(int ind,List<Integer> a1, Set<List<Integer>> ans,int[] nums)
     {
-        if(ind>=nums.length)
+        if(ind==nums.length)
         {
             ans.add(new ArrayList<>(a1));
             return;
