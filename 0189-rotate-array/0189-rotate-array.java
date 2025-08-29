@@ -1,25 +1,17 @@
-import java.util.*;
 class Solution {
-    public void rev(int arr[],int s,int e)
-    {
-        while(s<e)
-        {
-            int temp=arr[s];
-            arr[s]=arr[e];
-            arr[e]=temp;
-            s++;
-            e--;
-        }
-    }
     public void rotate(int[] nums, int k) {
-        int n=nums.length;
-        k=k%n;
-        if(n==1) return;
-        rev(nums,0,n-1);
-        rev(nums,0,k-1);
-        rev(nums,k,n-1);
-        
-
-        
+        k = k % nums.length;        
+        reverse(nums, 0, nums.length - 1);
+        reverse(nums, 0, k - 1);
+        reverse(nums, k, nums.length - 1);
+    }
+    
+    private void reverse(int[] nums, int l, int r) {
+        while (l < r) {
+            int tmp = nums[r];
+            nums[r] = nums[l];
+            nums[l] = tmp;
+            l++;r--;
+        }
     }
 }
