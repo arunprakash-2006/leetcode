@@ -9,9 +9,3 @@ class Solution(object):
        sum2=sum(nums)
        ans=sum1-sum2
        return ans
-         
-
-
-        
-
-        
