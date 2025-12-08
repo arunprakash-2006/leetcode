@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    int max_height=Integer.MIN_VALUE;
+    int max_height=-1001;
 
     public int helper(TreeNode root)
     {
