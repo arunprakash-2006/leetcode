@@ -18,12 +18,11 @@ class Solution {
                return;
             }
 
-            for(int i=ind;i<a.size();i++)
-            {
-                temp.add(a.get(i));
-                back(k,a,a1,i+1,temp);
+            if(ind==a.size()) return;
+                temp.add(a.get(ind));
+                back(k,a,a1,ind+1,temp);
                 temp.remove(temp.size()-1);
-            }
+                back(k,a,a1,ind+1,temp);
         }
 
         
