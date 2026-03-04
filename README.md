@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/arunprakash-2006/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0377-combination-sum-iv](https://github.com/arunprakash-2006/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,4 +22,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/arunprakash-2006/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0377-combination-sum-iv](https://github.com/arunprakash-2006/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 <!---LeetCode Topics End-->
