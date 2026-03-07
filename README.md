@@ -26,4 +26,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0377-combination-sum-iv](https://github.com/arunprakash-2006/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/arunprakash-2006/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/arunprakash-2006/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 <!---LeetCode Topics End-->
