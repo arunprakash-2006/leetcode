@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/arunprakash-2006/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0377-combination-sum-iv](https://github.com/arunprakash-2006/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0994-rotting-oranges](https://github.com/arunprakash-2006/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -14,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/arunprakash-2006/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0994-rotting-oranges](https://github.com/arunprakash-2006/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/arunprakash-2006/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0994-rotting-oranges](https://github.com/arunprakash-2006/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
