@@ -62,7 +62,7 @@ class Solution {
                 }
             }
         }
-        System.out.print(fresh_oranges+" "+fresh_to_rotten);
+        
 
         if(fresh_oranges!=fresh_to_rotten) return -1;
 
