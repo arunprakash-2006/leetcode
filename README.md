@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/arunprakash-2006/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0377-combination-sum-iv](https://github.com/arunprakash-2006/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arunprakash-2006/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -55,4 +56,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/arunprakash-2006/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
