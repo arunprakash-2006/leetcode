@@ -3,6 +3,7 @@ class Solution {
         int len=nums.length;
         int can=-1;
         int votes=0;
+        int count=0;
         for(int i:nums)
         {
             if(votes==0)
@@ -17,7 +18,15 @@ class Solution {
             else votes--;
         }
 
-        return can;
+        for(int j:nums)
+        {
+            if(can==j) count++;
+        }
+
+        if(count>(len/2)) return can;
+        
+
+        return -1;
         
     }
 }
