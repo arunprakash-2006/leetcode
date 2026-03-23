@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/arunprakash-2006/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/arunprakash-2006/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/arunprakash-2006/leetcode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/arunprakash-2006/leetcode/tree/main/0130-surrounded-regions/) | Medium |
@@ -35,6 +36,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/arunprakash-2006/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0377-combination-sum-iv](https://github.com/arunprakash-2006/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -80,6 +82,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/arunprakash-2006/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/arunprakash-2006/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
