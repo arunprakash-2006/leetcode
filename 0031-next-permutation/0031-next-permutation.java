@@ -16,7 +16,7 @@ class Solution {
             return;
         }
 
-        for(int i=len-1;i>d_ind;i--)
+        for(int i=len-1;i>=d_ind;i--)
         {
             if(nums[d_ind]<nums[i])
             {
