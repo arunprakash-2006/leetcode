@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/arunprakash-2006/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/arunprakash-2006/leetcode/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arunprakash-2006/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/arunprakash-2006/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/arunprakash-2006/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0169-majority-element](https://github.com/arunprakash-2006/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0377-combination-sum-iv](https://github.com/arunprakash-2006/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
@@ -29,6 +30,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arunprakash-2006/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/arunprakash-2006/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -75,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/arunprakash-2006/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/arunprakash-2006/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
