@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/arunprakash-2006/leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/arunprakash-2006/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/arunprakash-2006/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/arunprakash-2006/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/arunprakash-2006/leetcode/tree/main/0079-word-search/) | Medium |
@@ -35,6 +36,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/arunprakash-2006/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/arunprakash-2006/leetcode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/arunprakash-2006/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0994-rotting-oranges](https://github.com/arunprakash-2006/leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -47,6 +49,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/arunprakash-2006/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/arunprakash-2006/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arunprakash-2006/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 ## String
