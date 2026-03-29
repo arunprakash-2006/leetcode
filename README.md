@@ -57,6 +57,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/arunprakash-2006/leetcode/tree/main/0079-word-search/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/arunprakash-2006/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/arunprakash-2006/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
