@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/arunprakash-2006/leetcode/tree/main/0079-word-search/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/arunprakash-2006/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -45,6 +46,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/arunprakash-2006/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arunprakash-2006/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0377-combination-sum-iv](https://github.com/arunprakash-2006/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -105,4 +107,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arunprakash-2006/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
