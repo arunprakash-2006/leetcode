@@ -14,19 +14,19 @@
  * }
  */
 class Solution {
-    int max_height=-1001;
+    int max_sum=-1001;
 
     public int helper(TreeNode root)
     {
         if(root==null) return 0;
         int leftsum=Math.max(0,helper(root.left));
         int rightsum=Math.max(0,helper(root.right));
-        max_height=Math.max(max_height,(leftsum+rightsum+root.val));
+        max_sum=Math.max(max_sum,(leftsum+rightsum+root.val));
         return Math.max(leftsum,rightsum)+root.val;
     }
     public int maxPathSum(TreeNode root) {
         
         helper(root);
-        return max_height;
+        return max_sum;
     }
 }
