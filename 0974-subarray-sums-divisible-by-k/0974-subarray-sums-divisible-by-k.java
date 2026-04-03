@@ -14,19 +14,8 @@ class Solution {
                 rem+=k;
             }
 
-            if(map.containsKey(rem))
-            {
-                count+=map.get(rem);
-            }
-
-            if(map.containsKey(rem))
-            {
-                map.put(rem,map.get(rem)+1);
-            }
-            else
-            {
-                map.put(rem,1);
-            }
+            count += map.getOrDefault(rem, 0);
+            map.put(rem, map.getOrDefault(rem, 0) + 1);
         }
 
 
