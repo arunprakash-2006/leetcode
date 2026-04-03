@@ -1,29 +1,15 @@
 class Solution {
     public long countBadPairs(int[] nums) {
-        int len=nums.length;
-        long count_good_pairs=0;
-        Map<Long,Long> map=new HashMap<>();
-        long val=0;
-        for(int i=0;i<len;i++)
-        {
-            val=(long)nums[i]-i;
-            if(map.containsKey(val))
-            {
-                count_good_pairs+=map.get(val);
-                map.put(val,map.get(val)+1);
-            }
-            if(!map.containsKey(val))
-            {
-                map.put(val,(long)1);
-            }
-            
+        long count = 0;
+        int n = nums.length;
+        long pairNumb = (long) n * (n - 1) / 2;
+        Map<Integer, Integer> hm = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            int key = nums[i] - i;
+            int freq = hm.getOrDefault(key, 0);
+            count += freq;
+            hm.put(key, freq + 1);
         }
-
-        long total_pairs=(long) len*(len-1)/2;
-        return total_pairs-count_good_pairs;
-
-        
-
-        
+        return pairNumb - count;
     }
 }
