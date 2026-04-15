@@ -141,4 +141,8 @@
 | [0525-contiguous-array](https://github.com/arunprakash-2006/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/arunprakash-2006/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arunprakash-2006/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/arunprakash-2006/leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
