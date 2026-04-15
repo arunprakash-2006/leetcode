@@ -146,6 +146,7 @@
 | ------- | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/arunprakash-2006/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/arunprakash-2006/leetcode/tree/main/0607-sales-person/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/arunprakash-2006/leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/arunprakash-2006/leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/arunprakash-2006/leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
