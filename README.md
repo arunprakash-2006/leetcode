@@ -144,6 +144,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/arunprakash-2006/leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/arunprakash-2006/leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/arunprakash-2006/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/arunprakash-2006/leetcode/tree/main/0607-sales-person/) | Easy |
