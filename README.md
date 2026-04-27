@@ -149,6 +149,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/arunprakash-2006/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/arunprakash-2006/leetcode/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/arunprakash-2006/leetcode/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/arunprakash-2006/leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/arunprakash-2006/leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/arunprakash-2006/leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/arunprakash-2006/leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
