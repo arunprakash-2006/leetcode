@@ -167,6 +167,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/arunprakash-2006/leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/arunprakash-2006/leetcode/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/arunprakash-2006/leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
+| [1517-find-users-with-valid-e-mails](https://github.com/arunprakash-2006/leetcode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/arunprakash-2006/leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/arunprakash-2006/leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/arunprakash-2006/leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
