@@ -28,6 +28,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/arunprakash-2006/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/arunprakash-2006/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2540-minimum-common-value](https://github.com/arunprakash-2006/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2559-count-vowel-strings-in-ranges](https://github.com/arunprakash-2006/leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/arunprakash-2006/leetcode/tree/main/0079-word-search/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/arunprakash-2006/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [2559-count-vowel-strings-in-ranges](https://github.com/arunprakash-2006/leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/arunprakash-2006/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@
 | [0525-contiguous-array](https://github.com/arunprakash-2006/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/arunprakash-2006/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arunprakash-2006/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [2559-count-vowel-strings-in-ranges](https://github.com/arunprakash-2006/leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
