@@ -17,6 +17,7 @@
 | [0130-surrounded-regions](https://github.com/arunprakash-2006/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0169-majority-element](https://github.com/arunprakash-2006/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/arunprakash-2006/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/arunprakash-2006/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/arunprakash-2006/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0377-combination-sum-iv](https://github.com/arunprakash-2006/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/arunprakash-2006/leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
@@ -156,6 +157,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/arunprakash-2006/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/arunprakash-2006/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/arunprakash-2006/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
