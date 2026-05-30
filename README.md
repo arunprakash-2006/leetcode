@@ -178,6 +178,7 @@
 | [0184-department-highest-salary](https://github.com/arunprakash-2006/leetcode/tree/main/0184-department-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/arunprakash-2006/leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/arunprakash-2006/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/arunprakash-2006/leetcode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0607-sales-person](https://github.com/arunprakash-2006/leetcode/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/arunprakash-2006/leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/arunprakash-2006/leetcode/tree/main/0619-biggest-single-number/) | Easy |
