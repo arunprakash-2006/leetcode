@@ -19,6 +19,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/arunprakash-2006/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/arunprakash-2006/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/arunprakash-2006/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0376-wiggle-subsequence](https://github.com/arunprakash-2006/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0377-combination-sum-iv](https://github.com/arunprakash-2006/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/arunprakash-2006/leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
@@ -75,6 +76,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/arunprakash-2006/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/arunprakash-2006/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0268-missing-number](https://github.com/arunprakash-2006/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arunprakash-2006/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/arunprakash-2006/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
@@ -113,6 +115,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/arunprakash-2006/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/arunprakash-2006/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/arunprakash-2006/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/arunprakash-2006/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/arunprakash-2006/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/arunprakash-2006/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -130,6 +133,7 @@
 | [0075-sort-colors](https://github.com/arunprakash-2006/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/arunprakash-2006/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/arunprakash-2006/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/arunprakash-2006/leetcode/tree/main/0268-missing-number/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/arunprakash-2006/leetcode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -195,6 +199,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/arunprakash-2006/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/arunprakash-2006/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/arunprakash-2006/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/arunprakash-2006/leetcode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
@@ -208,4 +213,8 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/arunprakash-2006/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/arunprakash-2006/leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
