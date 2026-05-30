@@ -28,6 +28,7 @@
 | [0525-contiguous-array](https://github.com/arunprakash-2006/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/arunprakash-2006/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/arunprakash-2006/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arunprakash-2006/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0994-rotting-oranges](https://github.com/arunprakash-2006/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arunprakash-2006/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -119,6 +120,7 @@
 | [0523-continuous-subarray-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/arunprakash-2006/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/arunprakash-2006/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arunprakash-2006/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/arunprakash-2006/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2540-minimum-common-value](https://github.com/arunprakash-2006/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -169,6 +171,7 @@
 | [0525-contiguous-array](https://github.com/arunprakash-2006/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/arunprakash-2006/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/arunprakash-2006/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arunprakash-2006/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/arunprakash-2006/leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 ## Database
@@ -214,6 +217,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/arunprakash-2006/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
