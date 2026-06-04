@@ -193,6 +193,7 @@
 | [1075-project-employees-i](https://github.com/arunprakash-2006/leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/arunprakash-2006/leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1280-students-and-examinations](https://github.com/arunprakash-2006/leetcode/tree/main/1280-students-and-examinations/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/arunprakash-2006/leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/arunprakash-2006/leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/arunprakash-2006/leetcode/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/arunprakash-2006/leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
