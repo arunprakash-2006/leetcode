@@ -34,6 +34,7 @@
 | [0904-fruit-into-baskets](https://github.com/arunprakash-2006/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arunprakash-2006/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/arunprakash-2006/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/arunprakash-2006/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arunprakash-2006/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arunprakash-2006/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -137,6 +138,7 @@
 | [0904-fruit-into-baskets](https://github.com/arunprakash-2006/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arunprakash-2006/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/arunprakash-2006/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2364-count-number-of-bad-pairs](https://github.com/arunprakash-2006/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2540-minimum-common-value](https://github.com/arunprakash-2006/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/arunprakash-2006/leetcode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
@@ -164,6 +166,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/arunprakash-2006/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/arunprakash-2006/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/arunprakash-2006/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2364-count-number-of-bad-pairs](https://github.com/arunprakash-2006/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -245,6 +248,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/arunprakash-2006/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/arunprakash-2006/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/arunprakash-2006/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arunprakash-2006/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
