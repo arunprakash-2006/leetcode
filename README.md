@@ -100,6 +100,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/arunprakash-2006/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/arunprakash-2006/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arunprakash-2006/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/arunprakash-2006/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/arunprakash-2006/leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/arunprakash-2006/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Linked List
@@ -112,6 +113,7 @@
 | [0031-next-permutation](https://github.com/arunprakash-2006/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/arunprakash-2006/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/arunprakash-2006/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0567-permutation-in-string](https://github.com/arunprakash-2006/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arunprakash-2006/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2540-minimum-common-value](https://github.com/arunprakash-2006/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Stack
@@ -137,6 +139,7 @@
 | [0523-continuous-subarray-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/arunprakash-2006/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/arunprakash-2006/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/arunprakash-2006/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/arunprakash-2006/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arunprakash-2006/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -247,6 +250,7 @@
 | [0413-arithmetic-slices](https://github.com/arunprakash-2006/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/arunprakash-2006/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arunprakash-2006/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/arunprakash-2006/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/arunprakash-2006/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/arunprakash-2006/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/arunprakash-2006/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
