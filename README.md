@@ -46,6 +46,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/arunprakash-2006/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/arunprakash-2006/leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arunprakash-2006/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/arunprakash-2006/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +245,7 @@
 | ------- | ------- |
 | [0376-wiggle-subsequence](https://github.com/arunprakash-2006/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/arunprakash-2006/leetcode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/arunprakash-2006/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
