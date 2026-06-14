@@ -86,6 +86,7 @@
 | [0376-wiggle-subsequence](https://github.com/arunprakash-2006/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0377-combination-sum-iv](https://github.com/arunprakash-2006/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0413-arithmetic-slices](https://github.com/arunprakash-2006/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
+| [0509-fibonacci-number](https://github.com/arunprakash-2006/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arunprakash-2006/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@
 | [0171-excel-sheet-column-number](https://github.com/arunprakash-2006/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0268-missing-number](https://github.com/arunprakash-2006/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arunprakash-2006/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0509-fibonacci-number](https://github.com/arunprakash-2006/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/arunprakash-2006/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arunprakash-2006/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -131,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/arunprakash-2006/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/arunprakash-2006/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,4 +284,8 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/arunprakash-2006/leetcode/tree/main/0268-missing-number/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/arunprakash-2006/leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/arunprakash-2006/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
