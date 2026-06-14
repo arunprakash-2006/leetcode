@@ -18,19 +18,9 @@ class Solution {
                 }
                 left++;
             }
-            
             max_len=Math.max(max_len,right-left+1);
             right++;
-            
-            
-           
-
         }
-
         return max_len;
-
-
-        
-        
     }
 }
