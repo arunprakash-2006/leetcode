@@ -30,6 +30,7 @@
 | [0523-continuous-subarray-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/arunprakash-2006/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/arunprakash-2006/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0605-can-place-flowers](https://github.com/arunprakash-2006/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/arunprakash-2006/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/arunprakash-2006/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/arunprakash-2006/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -270,6 +271,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0376-wiggle-subsequence](https://github.com/arunprakash-2006/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0605-can-place-flowers](https://github.com/arunprakash-2006/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/arunprakash-2006/leetcode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/arunprakash-2006/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sliding Window
