@@ -39,6 +39,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/arunprakash-2006/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/arunprakash-2006/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/arunprakash-2006/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/arunprakash-2006/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arunprakash-2006/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arunprakash-2006/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arunprakash-2006/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -168,6 +169,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arunprakash-2006/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/arunprakash-2006/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1331-rank-transform-of-an-array](https://github.com/arunprakash-2006/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arunprakash-2006/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arunprakash-2006/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/arunprakash-2006/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
@@ -186,6 +188,7 @@
 | [0169-majority-element](https://github.com/arunprakash-2006/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/arunprakash-2006/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/arunprakash-2006/leetcode/tree/main/0268-missing-number/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/arunprakash-2006/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/arunprakash-2006/leetcode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
