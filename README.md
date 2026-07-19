@@ -127,6 +127,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/arunprakash-2006/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/arunprakash-2006/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/arunprakash-2006/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arunprakash-2006/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arunprakash-2006/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arunprakash-2006/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arunprakash-2006/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -153,6 +154,7 @@
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/arunprakash-2006/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/arunprakash-2006/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arunprakash-2006/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +295,7 @@
 | [0316-remove-duplicate-letters](https://github.com/arunprakash-2006/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/arunprakash-2006/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/arunprakash-2006/leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arunprakash-2006/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/arunprakash-2006/leetcode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/arunprakash-2006/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sliding Window
@@ -335,4 +338,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/arunprakash-2006/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arunprakash-2006/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
