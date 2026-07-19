@@ -121,6 +121,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/arunprakash-2006/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0079-word-search](https://github.com/arunprakash-2006/leetcode/tree/main/0079-word-search/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/arunprakash-2006/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/arunprakash-2006/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/arunprakash-2006/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/arunprakash-2006/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arunprakash-2006/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -151,6 +152,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/arunprakash-2006/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/arunprakash-2006/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +290,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/arunprakash-2006/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/arunprakash-2006/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/arunprakash-2006/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/arunprakash-2006/leetcode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
@@ -328,4 +331,8 @@
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arunprakash-2006/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arunprakash-2006/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/arunprakash-2006/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->
