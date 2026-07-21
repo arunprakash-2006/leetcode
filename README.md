@@ -104,6 +104,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/arunprakash-2006/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/arunprakash-2006/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/arunprakash-2006/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0268-missing-number](https://github.com/arunprakash-2006/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -138,6 +139,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/arunprakash-2006/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/arunprakash-2006/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -158,6 +160,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/arunprakash-2006/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/arunprakash-2006/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/arunprakash-2006/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
