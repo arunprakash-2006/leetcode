@@ -10,7 +10,8 @@ class Solution {
 
         for(char ch:s.toCharArray())
         {
-            freq[ch-'a']--;
+            freq[ch-'a']--
+            ;
             if(visited[ch-'a']) continue;
 
             while(!st.isEmpty() && ch<st.peek() && freq[st.peek()-'a']>0)
