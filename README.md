@@ -284,6 +284,7 @@
 | [1729-find-followers-count](https://github.com/arunprakash-2006/leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/arunprakash-2006/leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/arunprakash-2006/leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/arunprakash-2006/leetcode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/arunprakash-2006/leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
