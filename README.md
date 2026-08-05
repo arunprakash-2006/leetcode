@@ -64,6 +64,7 @@
 | [0079-word-search](https://github.com/arunprakash-2006/leetcode/tree/main/0079-word-search/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/arunprakash-2006/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/arunprakash-2006/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/arunprakash-2006/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/arunprakash-2006/leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/arunprakash-2006/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -157,6 +158,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/arunprakash-2006/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/arunprakash-2006/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/arunprakash-2006/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arunprakash-2006/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -236,12 +238,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/arunprakash-2006/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/arunprakash-2006/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/arunprakash-2006/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/arunprakash-2006/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/arunprakash-2006/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/arunprakash-2006/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Prefix Sum
