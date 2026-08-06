@@ -104,6 +104,7 @@
 | [0377-combination-sum-iv](https://github.com/arunprakash-2006/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0413-arithmetic-slices](https://github.com/arunprakash-2006/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0509-fibonacci-number](https://github.com/arunprakash-2006/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1025-divisor-game](https://github.com/arunprakash-2006/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arunprakash-2006/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arunprakash-2006/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0509-fibonacci-number](https://github.com/arunprakash-2006/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1025-divisor-game](https://github.com/arunprakash-2006/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/arunprakash-2006/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arunprakash-2006/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/arunprakash-2006/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
@@ -368,4 +370,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arunprakash-2006/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/arunprakash-2006/leetcode/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/arunprakash-2006/leetcode/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/arunprakash-2006/leetcode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
