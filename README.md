@@ -110,6 +110,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/arunprakash-2006/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/arunprakash-2006/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0089-gray-code](https://github.com/arunprakash-2006/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/arunprakash-2006/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0268-missing-number](https://github.com/arunprakash-2006/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arunprakash-2006/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -203,6 +204,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/arunprakash-2006/leetcode/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/arunprakash-2006/leetcode/tree/main/0089-gray-code/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +342,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/arunprakash-2006/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0268-missing-number](https://github.com/arunprakash-2006/leetcode/tree/main/0268-missing-number/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/arunprakash-2006/leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 ## Memoization
