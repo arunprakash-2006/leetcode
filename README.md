@@ -119,6 +119,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arunprakash-2006/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/arunprakash-2006/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arunprakash-2006/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/arunprakash-2006/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arunprakash-2006/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -359,4 +360,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arunprakash-2006/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/arunprakash-2006/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
