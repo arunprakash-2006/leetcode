@@ -122,6 +122,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arunprakash-2006/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arunprakash-2006/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arunprakash-2006/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3870-count-commas-in-range](https://github.com/arunprakash-2006/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
