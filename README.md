@@ -132,6 +132,7 @@
 | [0079-word-search](https://github.com/arunprakash-2006/leetcode/tree/main/0079-word-search/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/arunprakash-2006/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/arunprakash-2006/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0383-ransom-note](https://github.com/arunprakash-2006/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/arunprakash-2006/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/arunprakash-2006/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arunprakash-2006/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -183,6 +184,7 @@
 | [0219-contains-duplicate-ii](https://github.com/arunprakash-2006/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/arunprakash-2006/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/arunprakash-2006/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0383-ransom-note](https://github.com/arunprakash-2006/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/arunprakash-2006/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/arunprakash-2006/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arunprakash-2006/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -230,6 +232,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/arunprakash-2006/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/arunprakash-2006/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0383-ransom-note](https://github.com/arunprakash-2006/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/arunprakash-2006/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2364-count-number-of-bad-pairs](https://github.com/arunprakash-2006/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 ## Simulation
