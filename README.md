@@ -121,6 +121,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/arunprakash-2006/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arunprakash-2006/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/arunprakash-2006/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arunprakash-2006/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arunprakash-2006/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arunprakash-2006/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arunprakash-2006/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -144,6 +145,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arunprakash-2006/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/arunprakash-2006/leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/arunprakash-2006/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arunprakash-2006/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/arunprakash-2006/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/arunprakash-2006/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Linked List
@@ -322,6 +324,7 @@
 | [0605-can-place-flowers](https://github.com/arunprakash-2006/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arunprakash-2006/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/arunprakash-2006/leetcode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arunprakash-2006/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/arunprakash-2006/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
