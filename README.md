@@ -54,6 +54,7 @@
 | [2559-count-vowel-strings-in-ranges](https://github.com/arunprakash-2006/leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/arunprakash-2006/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/arunprakash-2006/leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
+| [3028-ant-on-the-boundary](https://github.com/arunprakash-2006/leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arunprakash-2006/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/arunprakash-2006/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/arunprakash-2006/leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -245,6 +246,7 @@
 | [0054-spiral-matrix](https://github.com/arunprakash-2006/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/arunprakash-2006/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arunprakash-2006/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3028-ant-on-the-boundary](https://github.com/arunprakash-2006/leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/arunprakash-2006/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/arunprakash-2006/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Tree
@@ -279,6 +281,7 @@
 | [2559-count-vowel-strings-in-ranges](https://github.com/arunprakash-2006/leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/arunprakash-2006/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/arunprakash-2006/leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
+| [3028-ant-on-the-boundary](https://github.com/arunprakash-2006/leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
