@@ -8,10 +8,5 @@ class Solution {
 
         return (double) Math.abs((h-m)/2);
 
-
-
-        
-        
-        
     }
 }
