@@ -150,6 +150,7 @@
 | [2559-count-vowel-strings-in-ranges](https://github.com/arunprakash-2006/leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/arunprakash-2006/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arunprakash-2006/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/arunprakash-2006/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/arunprakash-2006/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/arunprakash-2006/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Linked List
@@ -210,6 +211,7 @@
 | [2540-minimum-common-value](https://github.com/arunprakash-2006/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/arunprakash-2006/leetcode/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/arunprakash-2006/leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/arunprakash-2006/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3731-find-missing-elements](https://github.com/arunprakash-2006/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -357,6 +359,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arunprakash-2006/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arunprakash-2006/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arunprakash-2006/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/arunprakash-2006/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
