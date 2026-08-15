@@ -1,35 +1,26 @@
 class Solution {
     public int clumsy(int n) {
-        Stack<Integer> stack=new Stack<>();
-        int index=0;
-        int sum=0;
+        Deque<Integer> stack = new ArrayDeque<>();
         stack.push(n);
-        for(int i=n-1;i>=1;i--)
-        {
-            if(index==0)
-            {
-                int top=stack.pop();
-                top=top*i;
-                stack.push(top);
-            }
-            else if(index==1)
-            {
-                int top=stack.pop();
-                top=top/i;
-                stack.push(top);
-            }
 
-            else if(index==2)
+        int index = 0;
+
+        for (int i = n - 1; i >= 1; i--) {
+            if (index == 0) { 
+                stack.push(stack.pop() * i);
+            } else if (index == 1) {
+                stack.push(stack.pop() / i);
+            } else if (index == 2) {
                 stack.push(i);
-            
-            else 
+            } else { 
                 stack.push(-i);
-            index=(index+1)%4;
+            }
+            index = (index + 1) % 4;
         }
 
-        for(Integer i:stack)
-        {
-            sum=sum+i;
+        int sum = 0;
+        while (!stack.isEmpty()) {
+            sum += stack.pop();
         }
 
         return sum;
