@@ -120,6 +120,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arunprakash-2006/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0509-fibonacci-number](https://github.com/arunprakash-2006/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/arunprakash-2006/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1006-clumsy-factorial](https://github.com/arunprakash-2006/leetcode/tree/main/1006-clumsy-factorial/) | Medium |
 | [1025-divisor-game](https://github.com/arunprakash-2006/leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/arunprakash-2006/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arunprakash-2006/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -174,6 +175,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/arunprakash-2006/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/arunprakash-2006/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/arunprakash-2006/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1006-clumsy-factorial](https://github.com/arunprakash-2006/leetcode/tree/main/1006-clumsy-factorial/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arunprakash-2006/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -248,6 +250,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/arunprakash-2006/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/arunprakash-2006/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [1006-clumsy-factorial](https://github.com/arunprakash-2006/leetcode/tree/main/1006-clumsy-factorial/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arunprakash-2006/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/arunprakash-2006/leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3360-stone-removal-game](https://github.com/arunprakash-2006/leetcode/tree/main/3360-stone-removal-game/) | Easy |
