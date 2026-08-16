@@ -23,10 +23,11 @@ class Solution {
             {
                 temp.add(candidates[ind]);
                 back(ans,temp,target-candidates[ind],candidates,ind);
-                temp.remove(temp.size()-1);
+                temp.remove(temp.size()-1);  
             }
-
             back(ans,temp,target,candidates,ind+1);
+
+           
         }
         
     }
